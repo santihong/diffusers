@@ -5,4 +5,4 @@ ftfy
 tensorboard
 Jinja2
 safetensors
-xformers
+xformers==0.0.22
